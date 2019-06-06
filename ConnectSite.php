@@ -1,8 +1,8 @@
 <?php
 
-namespace ConectarSite;
+namespace ConnectSite;
 
-function conectar()
+function connect()
 {
     echo "\nConectou no site.\n";
 }

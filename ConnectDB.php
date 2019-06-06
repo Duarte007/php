@@ -1,8 +1,8 @@
 <?php
 
-namespace ConectarDB;
+namespace ConnectDB;
 
-function conectar()
+function connect()
 {
     echo "\nConectou no banco.\n";
 }

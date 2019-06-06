@@ -3,7 +3,7 @@
 class Pessoa{
     protected $name;
     protected $age;
-    const ESPECIE = "Humano";
+    const SPECIES = "Humano";
 
     public function __construct($defaultName){
         $this->name = $defaultName;
